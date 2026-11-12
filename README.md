@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Sangram%20Mohanty%20👋&fontSize=36&fontAlignY=38&desc=Lead%20Native%20Android%20Engineer%20%7C%20KMP%20%E2%80%A2%20iOS%20%E2%80%A2%20CI%2FCD&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Sangram%20Mohanty%20👋&fontSize=36&fontAlignY=38&desc=Lead%20Native%20Android%20Engineer%20%7C%20KMP%20%E2%80%A2%20iOS%20%E2%80%A2%20ReactNative%20%E2%80%A2%20CI%2FCD&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/sangram2006">
@@ -34,6 +34,7 @@ I am a **Lead / Senior Native Android & Mobile Platform Engineer** with deep exp
 - ⚙️ **Enterprise CI/CD & Build Automation**: Architecting high-speed build and distribution pipelines using **Harness CI/CD** paired with **Fastlane** (match, gym, scan, deliver) for deterministic builds, automated signing, and zero-touch store deployments.
 - 🍎 **Native iOS & Cross-Platform**: Building complementary native iOS experiences using **Swift**, **SwiftUI**, and Swift Package Manager, as well as React Native / Expo integration.
 - 🎨 **Unified Design Systems & Architecture**: Staunch advocate of **Clean Architecture**, SOLID principles, unidirectional data flow (MVI/MVVM), and scalable component libraries.
+- ⚛️ **React Native & Cross-Platform:** High-performance cross-platform mobile engineering—TypeScript, Expo, Fabric & TurboModules (New Architecture), Reanimated, Redux Toolkit / Zustand, Native Bridge modules, and Storybook design systems.
 
 ---
 
